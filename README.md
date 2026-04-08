@@ -1,6 +1,6 @@
 # 🫀 Heart Disease Prediction using Machine Learning
 
-This project leverages multiple machine learning models to predict the likelihood of heart disease in individuals using clinical and demographic data. The aim is to support early diagnosis and improve the accuracy of predictions using well-tuned ML techniques and user-friendly deployment.
+This project uses smart computer programs to guess if a person might have heart disease by looking at their health records. The goal is to help doctors catch heart problems early and make more accurate predictions using carefully tested methods and an easy-to-use website.
 
 ---
 
